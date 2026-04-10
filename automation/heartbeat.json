@@ -1,0 +1,20 @@
+{
+  "status": "healthy",
+  "timestamp": "2024-02-29T12:34:56.789Z",
+  "appVersion": "1.2.3",
+  "buildNumber": "123",
+  "environment": "production",
+  "deviceId": "unique-device-identifier",
+  "uptimeSeconds": 3600,
+  "memoryUsageMB": 128.5,
+  "cpuLoadPercentage": 10.2,
+  "networkConnectivity": "wifi",
+  "batteryLevelPercentage": 85,
+  "locationServicesEnabled": true,
+  "pushNotificationsEnabled": true,
+  "lastSyncTimestamp": "2024-02-29T12:00:00.000Z",
+  "activeUserCount": 1000,
+  "eventQueueSize": 50,
+  "errorCount": 0,
+  "warnings": []
+}

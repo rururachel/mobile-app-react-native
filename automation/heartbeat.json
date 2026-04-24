@@ -16,5 +16,12 @@
   "activeUserCount": 1000,
   "eventQueueSize": 50,
   "errorCount": 0,
-  "warnings": []
+  "warnings": [],
+  "storageFreeMB": 5000,
+  "storageTotalMB": 64000,
+  "isEmulator": false,
+  "dataConnectivity": "4G",
+  "deviceModel": "iPhone 13",
+  "osVersion": "16.0",
+  "backgroundActivityRestricted": false
 }
